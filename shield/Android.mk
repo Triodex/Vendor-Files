@@ -16,9 +16,3 @@ ifeq ($(TARGET_TEGRA_VARIANT),shield)
 LOCAL_PATH := $(call my-dir)
 include $(call all-makefiles-under,$(LOCAL_PATH))
 endif
-
-<<<<<<< HEAD
-Added Tes for Github
-
-=======
->>>>>>> 1da05bbbb5e20b7571befc95b69799eaa4e0d27f
